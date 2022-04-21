@@ -1,0 +1,15 @@
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.deps.json
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.runtimeconfig.json
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.dll
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/bin/Debug/net6.0/Examples001_HelloConsole.pdb
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.csproj.AssemblyReference.cache
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.AssemblyInfoInputs.cache
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.AssemblyInfo.cs
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.dll
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/obj/Debug/net6.0/refint/Examples001_HelloConsole.dll
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.pdb
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/obj/Debug/net6.0/Examples001_HelloConsole.genruntimeconfig.cache
+/Users/alexmacbook/Desktop/GeekBrains/LessonsCS/LessonCS1/Examples/Examples001_HelloConsole/obj/Debug/net6.0/ref/Examples001_HelloConsole.dll
